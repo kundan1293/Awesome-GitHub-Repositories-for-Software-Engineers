@@ -3,8 +3,8 @@
 Welcome to a curated list of GitHub repositories that every software engineer should explore. These repositories cover various aspects of software development, from system design to microservices, coding style guides, and more.
 
 ## System Design
-1. [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Learn the fundamentals of system design.
-2. [system-design-101](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems.
+1. [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms.
+2. [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems.
 
 ## Microservices
 3. [Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List): A collection of projects and resources related to microservices architecture.
